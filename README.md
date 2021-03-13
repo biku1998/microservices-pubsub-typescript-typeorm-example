@@ -4,4 +4,4 @@
 
 #### `mongoDB` `typeorm` `mongoose` `df`
 
-![]("/assets/arc.png?raw=true")
+![architecture]("/assets/arc.png")
